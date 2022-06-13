@@ -1,4 +1,5 @@
 # Algorithm assignment 5
+
 #### Model 1: 3 Layers with 1 Convolution layer
 ![model](images/model1/model.PNG)
 #### Training
@@ -8,7 +9,7 @@
 #### Success cases
 ![model](images/model1/success.PNG)
 #### Failure cases
-![model](images/model1/error.PNG)
+![model](images/model1/failure.PNG)
 
 -------------
 
@@ -21,7 +22,7 @@
 #### Success cases
 ![model](images/model2/success.PNG)
 #### Failure cases
-![model](images/model2/error.PNG)
+![model](images/model2/failure.PNG)
 
 -------------
 
@@ -34,4 +35,4 @@
 #### Success cases
 ![model](images/model3/success.PNG)
 #### Failure cases
-![model](images/model2/error.PNG)
+![model](images/model2/failure.PNG)
