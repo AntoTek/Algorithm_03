@@ -35,4 +35,4 @@
 #### Success cases
 ![model](images/model3/success.PNG)
 #### Failure cases
-![model](images/model2/failure.PNG)
+![model](images/model3/failure.PNG)
